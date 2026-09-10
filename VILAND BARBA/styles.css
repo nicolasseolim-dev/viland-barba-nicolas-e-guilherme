@@ -1,0 +1,21 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(76, 246, 184);
+}
+body{
+    
+    background-color: rgb(76, 246, 184);
+    text-align: center;
+}
+img{
+    width: 800px;
+}
+footer{
+    color: blue;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+div menu {
+    display: inline;
+}
